@@ -70,10 +70,11 @@ Proyecto/
 │
 ├── resultados/
 │   ├── matriz_confusion.png
-│   ├── histogramas.png
-│   └── filtros_mel.png
-│
-└── figures/
+│   ├── PruebaEstadistica_DistanciaCocenoInter
+│   ├── PruebaEstadistica_DistanciaCocenoIntra
+│   ├── PruebaEstadistica_ParidadEdades
+│   └── Resultado_SistemaClasificacion
+
 ```
 
 
@@ -147,6 +148,7 @@ La representación de cada señal se obtiene a partir de las energías de un ban
 ## Autores
 
 **Oscar David Mercado Gómez**
+
 **Jose Vicente Zabaleta**
 
 Ingeniería Electrónica
